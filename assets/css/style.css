@@ -15,7 +15,7 @@
     grid-area: encabezado;
 }
 .contenido {
-    background-color: violet;
+    /* background-color: violet; */
     grid-area: contenido;
 }
 
