@@ -7,7 +7,7 @@
     "contenido"
     "rodapie";
     grid-template-columns: auto;
-    grid-template-rows: 50px 100vh auto;
+    grid-template-rows: 50px auto auto;
 }
 
 .encabezado {
@@ -17,6 +17,7 @@
 .contenido {
     /* background-color: violet; */
     grid-area: contenido;
+    /* padding: 0 2em; */
 }
 
 .rodapie { 
