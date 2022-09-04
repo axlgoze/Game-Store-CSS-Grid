@@ -76,6 +76,7 @@
     border-bottom: 1px solid #dcdcdc;
     display: flex;
     justify-content: space-between;
+    padding: 0 2em;
 }
 
 .populares__boton{
