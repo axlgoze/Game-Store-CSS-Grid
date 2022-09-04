@@ -12,15 +12,15 @@
 
 .encabezado {
     background-color: aqua;
-    grid-area: encabezado;
+    grid-area: "encabezado";
 }
 .contenido {
     /* background-color: violet; */
-    grid-area: contenido;
+    grid-area: "contenido";
     /* padding: 0 2em; */
 }
 
 .rodapie { 
-    background-color: salmon;
-    grid-area: rodapie;
+    /* background-color: salmon; */
+    grid-area: "rodapie";
 }
