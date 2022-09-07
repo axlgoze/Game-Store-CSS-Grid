@@ -1,6 +1,5 @@
 .populares{
     padding: 3rem 0 2rem;
-
 }
 
 .populares__contenido{
@@ -9,7 +8,6 @@
     grid-area: "contenido";
     padding: 1rem 0;
 }
-
 
 .populares__card{
     background: white;
