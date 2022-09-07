@@ -1,12 +1,25 @@
-# Simple Game Store made with CCS Grid
+# Simple Game Store made with CCS Grid 🕹
 
-Este ejercicio fue realizado durante el curso de CSS grid: simplificando layouts. Proporcionado durante la capacitación de Oracle ALURA LATAM.
+This project was realized during the "CSS Grid course: simplifying layouts". Provided during ALURA's LATAM capacitation from Oracle.
 
 ## Description
 
-Construccion de una tienda de videojuegos con CSS grid.
+⌨ Building a game store shop with CSS Grid properties.
 
-La guia para construir el sitio fue la siguiente: 
+📜 The prototype:
 
-![prototipo](./Prototipo.pdf)
+[MockUp](./Prototipo.pdf)
 
+💻 To see website in action go to:
+
+[Game-Store-CSS-Grid](https://axlgoze.github.io/Game-Store-CSS-Grid/)
+
+### 🏋️‍♀️ Visit my Social media
+
+[LinkedIn](https://www.linkedin.com/in/axl-reyes-b6914b219/)
+
+[GitHub](https://github.com/axlgoze/)
+
+[Instagram](https://www.instagram.com/axlze/)
+
+[El BLog de Axl Reyes](https://axlgoze.github.io/my_launchx_blog/)
